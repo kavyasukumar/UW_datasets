@@ -1,6 +1,6 @@
 ## Data notes
 
-- Source: [Kaiser Famil Foundation](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#casesdeaths)
+- Source: [Kaiser Family Foundation](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#casesdeaths)
 
 
 ## Notes

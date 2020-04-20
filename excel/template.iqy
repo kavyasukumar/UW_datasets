@@ -1,0 +1,11 @@
+WEB
+1
+YOUR_URL_HERE
+
+Selection=EntirePage
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=False
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
